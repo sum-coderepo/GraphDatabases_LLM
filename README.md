@@ -14,6 +14,7 @@ This Repo is for learning Graph databses and its usages along with LLM on Graph 
 6. https://medium.com/neo4j/knowledge-graphs-llms-real-time-graph-analytics-89b392eaaa95
 7. https://neo4j.com/developer-blog/knowledge-graph-based-chatbot-with-gpt-3-and-neo4j/
 8. https://neo4j.com/developer-blog/generating-cypher-queries-with-chatgpt-4-on-any-graph-schema/
+9. https://medium.com/neo4j/langchain-cypher-search-tips-tricks-f7c9e9abca4d
 
 ## LLM and Graphs
 https://github.com/tomasonjo/langchain2neo4j
