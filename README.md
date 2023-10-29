@@ -12,6 +12,8 @@ This Repo is for learning Graph databses and its usages along with LLM on Graph 
 4. https://neo4j.com/blog/analyzing-paradise-papers-neo4j/
 5. https://neo4j.com/developer-blog/exploring-the-pandora-papers-with-neo4j/
 6. https://medium.com/neo4j/knowledge-graphs-llms-real-time-graph-analytics-89b392eaaa95
+7. https://neo4j.com/developer-blog/knowledge-graph-based-chatbot-with-gpt-3-and-neo4j/
+8. https://neo4j.com/developer-blog/generating-cypher-queries-with-chatgpt-4-on-any-graph-schema/
 
 ## LLM and Graphs
 https://github.com/tomasonjo/langchain2neo4j
@@ -23,15 +25,11 @@ https://www.youtube.com/watch?v=m97mYmHyq4Q -- Connecting Your Data to GTP </br>
 https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72
 
 
-#### Neo4j
 
-1. [generating-cypher-queries-with-chatgpt-4-on-any-graph-schema](https://neo4j.com/developer-blog/generating-cypher-queries-with-chatgpt-4-on-any-graph-schema/)
-2. [knowledge-graph-based-chatbot-with-gpt-3-and-neo4j](https://neo4j.com/developer-blog/knowledge-graph-based-chatbot-with-gpt-3-and-neo4j/)
-3. [why-database-query-language-matters](https://neo4j.com/blog/why-database-query-language-matters/?ref=blog/#cypher)
-4. https://neo4j.com/developer/kb/import-csv-locations/
-5. https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
-6. https://neo4j.com/blog/analyzing-paradise-papers-neo4j/
-7. https://neo4j.com/developer-blog/exploring-the-pandora-papers-with-neo4j/
+
+
+
+
 
 
 
