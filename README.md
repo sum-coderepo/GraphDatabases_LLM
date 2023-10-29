@@ -11,6 +11,7 @@ This Repo is for learning Graph databses and its usages along with LLM on Graph 
 3. https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
 4. https://neo4j.com/blog/analyzing-paradise-papers-neo4j/
 5. https://neo4j.com/developer-blog/exploring-the-pandora-papers-with-neo4j/
+6. https://medium.com/neo4j/knowledge-graphs-llms-real-time-graph-analytics-89b392eaaa95
 
 ## LLM and Graphs
 https://github.com/tomasonjo/langchain2neo4j
