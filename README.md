@@ -11,3 +11,32 @@ This Repo is for learning Graph databses and its usages along with LLM on Graph 
 3. https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
 4. https://neo4j.com/blog/analyzing-paradise-papers-neo4j/
 5. https://neo4j.com/developer-blog/exploring-the-pandora-papers-with-neo4j/
+
+## LLM and Graphs
+https://github.com/tomasonjo/langchain2neo4j
+
+#### Youtube
+https://www.youtube.com/watch?v=m97mYmHyq4Q -- Connecting Your Data to GTP </br>
+
+#### Blogs
+https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-the-ability-for-users-to-ask-their-own-questions-e4afc348fa72
+
+
+#### Neo4j
+1. [generating-cypher-queries-with-chatgpt-4-on-any-graph-schema](https://neo4j.com/developer-blog/generating-cypher-queries-with-chatgpt-4-on-any-graph-schema/)
+https://neo4j.com/developer-blog/knowledge-graph-based-chatbot-with-gpt-3-and-neo4j/
+https://neo4j.com/blog/why-database-query-language-matters/?ref=blog/#cypher
+https://neo4j.com/developer/kb/import-csv-locations/
+https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
+https://neo4j.com/blog/analyzing-paradise-papers-neo4j/
+https://neo4j.com/developer-blog/exploring-the-pandora-papers-with-neo4j/
+
+
+
+
+## Youtube
+https://www.youtube.com/watch?v=nAKhxQ3hcMA -- Chatbot Answering from Your Own Knowledge Base: Langchain, ChatGPT, Pinecone, and Streamlit: | Code </br>
+https://www.youtube.com/watch?v=W7kDwsWFjvE </br>
+https://www.youtube.com/watch?v=dXxQ0LR-3Hg -- Chat with Multiple PDFs | LangChain App Tutorial in Python (Free LLMs and Embeddings) </br>
+https://www.youtube.com/watch?v=ZzgUqFtxgXI -- Master PDF Chat with LangChain - Your essential guide to queries on documents </br>
+https://www.youtube.com/watch?v=CyuUlf54wTs -- Build ChatGPT Chatbots with LangChain Memory: Understanding and Implementing Memory in Conversations
