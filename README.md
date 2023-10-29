@@ -26,7 +26,7 @@ https://medium.com/@peter.lawrence_47665/knowledge-graphs-large-language-models-
 
 1. [generating-cypher-queries-with-chatgpt-4-on-any-graph-schema](https://neo4j.com/developer-blog/generating-cypher-queries-with-chatgpt-4-on-any-graph-schema/)
 2. [knowledge-graph-based-chatbot-with-gpt-3-and-neo4j](https://neo4j.com/developer-blog/knowledge-graph-based-chatbot-with-gpt-3-and-neo4j/)
-3. https://neo4j.com/blog/why-database-query-language-matters/?ref=blog/#cypher
+3. [why-database-query-language-matters](https://neo4j.com/blog/why-database-query-language-matters/?ref=blog/#cypher)
 4. https://neo4j.com/developer/kb/import-csv-locations/
 5. https://neo4j.com/blog/depth-graph-analysis-paradise-papers/
 6. https://neo4j.com/blog/analyzing-paradise-papers-neo4j/
